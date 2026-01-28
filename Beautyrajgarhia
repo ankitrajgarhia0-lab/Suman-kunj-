@@ -1,0 +1,140 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Suman Kunj | Tent & Decoration</title>
+  <meta name="description" content="Suman Kunj – Professional tent decoration, wedding decor, stage and flower decoration in Muzaffarpur, Bihar." />
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #fafafa;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(135deg, #8e44ad, #c0392b);
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 36px;
+    }
+    header p {
+      margin-top: 10px;
+      font-size: 18px;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #25D366;
+      color: white;
+      text-decoration: none;
+      border-radius: 30px;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      text-align: center;
+      margin-bottom: 30px;
+      color: #8e44ad;
+    }
+    .services {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+      text-align: center;
+    }
+    .card h3 {
+      margin-top: 0;
+      color: #c0392b;
+    }
+    .about {
+      background: #fff;
+      border-radius: 10px;
+      padding: 30px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+      line-height: 1.6;
+    }
+    footer {
+      background: #333;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+    }
+    .contact {
+      text-align: center;
+    }
+    .contact p {
+      font-size: 18px;
+      margin: 8px 0;
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 28px; }
+      header p { font-size: 16px; }
+    }
+  </style>
+</head>
+<body><header>
+  <h1>Suman Kunj</h1>
+  <p>Professional Tent & Decoration Services<br>पेशेवर टेंट और डेकोरेशन सेवाएं</p>
+  <a class="btn" href="https://wa.me/917369040029" target="_blank">Book on WhatsApp</a>
+</header><section>
+  <h2>Our Services | हमारी सेवाएं</h2>
+  <div class="services">
+    <div class="card">
+      <h3>Wedding Decoration | शादी की सजावट</h3>
+      <p>Complete wedding tent, mandap and stage decoration with premium finishing.<br>
+      शानदार फिनिशिंग के साथ पूरा वेडिंग टेंट, मंडप और स्टेज डेकोरेशन।</p>
+    </div>
+    <div class="card">
+      <h3>Tent & Shamiana | टेंट और शामियाना</h3>
+      <p>All size tents and shamiana for weddings, parties and functions.<br>
+      शादी, पार्टी और सभी कार्यक्रमों के लिए हर साइज के टेंट और शामियाना।</p>
+    </div>
+    <div class="card">
+      <h3>Flower Decoration | फूलों की सजावट</h3>
+      <p>Fresh and artificial flower decoration for stage, mandap and entry gate.<br>
+      स्टेज, मंडप और एंट्री गेट के लिए ताज़ा और आर्टिफिशियल फूलों की सजावट।</p>
+    </div>
+    <div class="card">
+      <h3>Party & Event Decor | पार्टी और इवेंट सजावट</h3>
+      <p>Birthday, anniversary, cultural and festival decoration solutions.<br>
+      जन्मदिन, एनिवर्सरी, सांस्कृतिक और फेस्टिवल डेकोरेशन।</p>
+    </div>
+  </div>
+</section><section>
+  <h2>About Suman Kunj | सुमन कुंज के बारे में</h2>
+  <div class="about">
+    <p>
+      Suman Kunj is a trusted name in tent and decoration services in Muzaffarpur, Bihar.<br>
+      सुमन कुंज मुज़फ्फरपुर, बिहार में टेंट और डेकोरेशन सेवाओं का एक भरोसेमंद नाम है।
+    </p>
+    <p>
+      Our experienced team ensures beautiful designs, timely setup and hassle‑free service
+      for every event.
+    </p>
+  </div>
+</section><section class="contact">
+  <h2>Contact Us</h2>
+  <p><strong>📍 Location:</strong> Muzaffarpur, Bihar</p>
+  <p><strong>📞 Phone:</strong> 7369040029</p>
+  <p><strong>📸 Instagram:</strong> @__sumankunj.__</p>
+  <a class="btn" href="tel:7369040029" style="background:#c0392b;">Call Now</a>
+</section><footer>
+  <p>© 2026 Suman Kunj – Tent & Decoration. All Rights Reserved.</p>
+</footer></body>
+</html>
